@@ -1,0 +1,9 @@
+chromadb
+openai
+transformers
+langchain
+pypdf
+transformers
+sentence-transformers
+scikit-learn
+matplotlib
